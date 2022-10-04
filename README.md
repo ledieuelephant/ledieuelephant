@@ -18,16 +18,14 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" />]
-
-<br />
-
+<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" />
 <img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/html-5--v1.png" />
 <img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/344/css3.png" />
 <img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/color/344/javascript--v1.png" />
 <img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/dusk/344/php-logo.png" />
 
-
+<br />
+<br />
 ### Most Used Technologies
 <!-- React, Vue, Tailwind, Laravel, MySQL, MongoDB, Node.JS, Discord -->
 <img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/react-native.png" />
