@@ -26,6 +26,7 @@
 
 <br />
 <br />
+
 ### Most Used Technologies
 <!-- React, Vue, Tailwind, Laravel, MySQL, MongoDB, Node.JS, Discord -->
 <img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/react-native.png" />
