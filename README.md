@@ -13,21 +13,13 @@
 - ⚡ Fun fact: I love to cook and play games
 
 <!-- Create cool list of technologies with their icons -->
-
-### Connect with me:
-
-[<img align="left" alt="raphael-reynaud.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Raphael Reynaud | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="Raphael Reynaud | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
-[<img align="left" alt="Raphael Reynaud | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />][instagram]
-
 <br />
-
 <!-- Create list of technologies with names and icons -->
 
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" />][vscode]
+
 <br />
 
 [<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/html-5--v1.png" />][HTML]
