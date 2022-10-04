@@ -2,7 +2,7 @@
 
 # Hi there, I'm [Raphael](https://souravdey777.github.io) 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/souravdey777?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=souravdey777)
+[![Twitter Follow](https://img.shields.io/twitter/follow/raphtheshaman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=raphtheshaman)
 
 ## I'm a Developer, and Teacher!!
 
