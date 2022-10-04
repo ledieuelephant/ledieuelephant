@@ -22,19 +22,19 @@
 
 <br />
 
-[<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/html-5--v1.png" />]
-[<img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/344/css3.png" />]
-[<img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/color/344/javascript--v1.png" />]
-[<img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/dusk/344/php-logo.png" />]
+<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/html-5--v1.png" />
+<img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/344/css3.png" />
+<img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/color/344/javascript--v1.png" />
+<img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/dusk/344/php-logo.png" />
 
 
 ### Most Used Technologies
 <!-- React, Vue, Tailwind, Laravel, MySQL, MongoDB, Node.JS, Discord -->
-[<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/react-native.png" />][React]
-[<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/vue-js.png" />][React]
-[<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/tailwind_css.png" />][React]
-[<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/fluency/344/laravel.png" />][React]
-[<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/mysql-logo.png" />][React]
-[<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/mongodb.png" />][React]
-[<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/fluency/344/node-js.png" />][React]
-[<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/fluency/344/discord-new-logo.png" />][React]
+<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/react-native.png" />
+<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/vue-js.png" />
+<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/tailwind_css.png" />
+<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/fluency/344/laravel.png" />
+<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/mysql-logo.png" />
+<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/mongodb.png" />
+<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/fluency/344/node-js.png" />
+<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/fluency/344/discord-new-logo.png" />
