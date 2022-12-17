@@ -1,39 +1,42 @@
-<!-- Create a cool github profile readme -->
-
-# Hi there, I'm [Raphael](https://souravdey777.github.io) 👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/raphtheshaman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=raphtheshaman)
-
-## I'm a Developer, and Teacher!!
-
-- 🔭 I’m currently working on a [Portfolio Website](https://raphael-reynaud.netlify.app)!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to cook and play games
-
-<!-- Create cool list of technologies with their icons -->
-<br />
-<!-- Create list of technologies with names and icons -->
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" />
-<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/html-5--v1.png" />
-<img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/344/css3.png" />
-<img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/color/344/javascript--v1.png" />
-<img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/dusk/344/php-logo.png" />
-
-<br />
-<br />
-
-### Most Used Technologies
-<!-- React, Vue, Tailwind, Laravel, MySQL, MongoDB, Node.JS, Discord -->
-<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/react-native.png" />
-<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/vue-js.png" />
-<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/tailwind_css.png" />
-<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/fluency/344/laravel.png" />
-<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/mysql-logo.png" />
-<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/mongodb.png" />
-<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/fluency/344/node-js.png" />
-<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/fluency/344/discord-new-logo.png" />
+```JS
+class AboutMe {
+  constructor(){
+    this.name = "Reynaud";
+    this.firstName = "Raphael";
+    
+    this.jobs = [
+      "Front-end Javascript",
+      "Back-end Javascript",
+      "Javascript Developer"
+    ]
+    
+    this.technologies = [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "React",
+      "Node",
+      "Flutter",
+    ]
+    
+    this.tools = [
+      "Visual Studio Code",
+      "ClickUp",
+      "Documentations",
+      "Adobe Creative Cloud"
+    ]
+    
+    this.qualities : {
+      "Curious",
+      "Eternal Student",
+      "Motivated",
+      "Love coding",
+      "Solutions finder"
+    }
+  }
+  
+  contactMe(){
+    window.location.href = "mailto:contact.raphaelreynaud@gmail.com"
+  }
+}
+```
